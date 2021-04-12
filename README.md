@@ -4,6 +4,7 @@ Get all the student reports of all the organizations of all the years (since 201
 # Why?
 When applying for GSoC, it's quite helpful to know how the organization works. How the experience of the past students was. You can also get links to student proposals which you can take inspiration from to write your own proposal.
 
+# Examples
 Note: Running this script for all years will take a long time. You have been warned!
 
 This script will run 5 times (2016 - 2020)
